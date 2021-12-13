@@ -1,4 +1,4 @@
-package seating;
+
 
 import java.util.Scanner;
 
